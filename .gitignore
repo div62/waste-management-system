@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 @"
+=======
+>>>>>>> origin/main
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 .vscode/
+<<<<<<< HEAD
 "@ | Out-File -FilePath .gitignore -Encoding utf8
+=======
+>>>>>>> origin/main
